@@ -1,0 +1,2 @@
+[console_scripts]
+social-media-bot = social_media_bot.main:main
